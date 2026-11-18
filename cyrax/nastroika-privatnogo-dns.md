@@ -2,7 +2,7 @@
 
 ## Текстовая инструкция
 
-#### Установите Bridge - [ссылка](https://cyrax.info/product/download/7)
+#### Установите Bridge - [ссылка](https://cyrax.info/cyraxmod/product/download/BRIDGE)
 
 1. Скопируйте рекомендуемый DNS из приложения Bridge
 2. Перейдите в настройки телефона
@@ -20,6 +20,6 @@
 
 ## Видео инструкция
 
-#### Установите Bridge - [ссылка](https://cyrax.info/product/download/7)
+#### Установите Bridge - [ссылка](https://cyrax.info/cyraxmod/product/download/BRIDGE)
 
 {% embed url="https://www.youtube.com/shorts/rsLfx21CdDg" %}

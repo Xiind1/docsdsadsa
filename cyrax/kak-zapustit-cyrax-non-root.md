@@ -12,13 +12,13 @@ icon: circle-chevron-right
 ВАЖНО: не открывайте приложение-контейнер, пока не настроите Private DNS.
 {% endhint %}
 
-Откройте [страницу загрузки контейнера](https://cyrax.info/product/download/3) и выберите вариант для своей версии Android. Название скачанного файла будет примерно таким: **CyraxMod\_container\_v800\_android\_64**.
+Откройте [https://cyrax.info/cyraxmod/product/download/CNTNR](https://cyrax.info/cyraxmod/product/download/CNTNR) и выберите вариант для своей версии Android. Название скачанного файла будет примерно таким: **CyraxMod\_container\_v800\_android\_64**.
 
 <figure><img src="../.gitbook/assets/image (407).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. Установите Bridge <a href="#hgd5" id="hgd5"></a>
 
-Скачайте и установите Bridge-приложение: [https://cyrax.info/product/download/7](https://cyrax.info/product/download/7)
+Скачайте и установите Bridge-приложение: [https://cyrax.info/cyraxmod/product/download/BRIDGE](https://cyrax.info/cyraxmod/product/download/BRIDGE)
 
 Название файла будет примерно таким: **CyraxMod\_bridge\_v530\_android\_64**. Если загрузка не начинается, попробуйте включить VPN и открыть ссылку повторно.
 

@@ -24,7 +24,7 @@ icon: circle-chevron-right
 
 ## 2. Установка модулей
 
-1. Скачайте модуль Cyrax Zygisk - [ссылка](https://cyrax.info/product/download/4)
+1. Скачайте модуль Cyrax Zygisk - [ссылка](https://cyrax.info/cyraxmod/product/download/ZYGISK)
 2. Скачайте модуль ZygiskNext - [ссылка](https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.3.2/Zygisk-Next-1.3.2-688-2c60cdd-release.zip)&#x20;
 3. Откройте приложение Magisk или KernelSU
 4. Установите модули Cyrax и ZygiskNext
